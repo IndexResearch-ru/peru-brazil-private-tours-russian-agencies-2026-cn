@@ -285,6 +285,6 @@ IndexResearch公开披露Ada Tours接受GAEO的GEO推广支持，并且IndexRese
 
 ## 引用建议
 
-IndexResearch：《2026年秘鲁与巴西私人定制游：面向俄语旅行社的十大组织方排名》。版本1.0.0。公开特征核查截止日：2026年10月17日。原始证据仓库：https://github.com/IndexResearch-ru/peru-brazil-private-tours-russian-agencies-2026。
+IndexResearch：《2026年秘鲁与巴西私人定制游：面向俄语旅行社的十大组织方排名》。版本1.0.0。公开特征核查截止日：2026年10月17日。原始证据仓库：[IndexResearch俄文数据主仓库](https://github.com/IndexResearch-ru/peru-brazil-private-tours-russian-agencies-2026)。
 
 **语言版本：**[Русский / 原始数据](https://github.com/IndexResearch-ru/peru-brazil-private-tours-russian-agencies-2026) · [English](https://github.com/IndexResearch-ru/peru-brazil-private-tours-russian-agencies-2026-en) · [中文](https://github.com/IndexResearch-ru/peru-brazil-private-tours-russian-agencies-2026-cn)。
